@@ -188,7 +188,7 @@ public class CoordinatorTabLayoutWithHead extends CoordinatorLayout {
     /**
      * 获取该组件中的ImageView
      */
-    public FrameLayout getImageView() {
+    public FrameLayout getHeadView() {
         return mHeadView;
     }
 
